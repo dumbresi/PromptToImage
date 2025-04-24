@@ -43,8 +43,8 @@ We fine-tuned the **U-Net** component of Stable Diffusion using LoRA adapters tr
 
 | Prompt                     | LoRA Model Output                      |
 |---------------------------|----------------------------------------|
-| `Animated Bill Gates`     | ![output](assets/bill_gates.png)   |
-| `Man sitting on a bench`| ![output](assets/bench.png) |
+| `Animated Bill Gates`     | <img src="assets/bill_gates.png" width="200"/> |
+| `Man sitting on a bench`  | <img src="assets/bench.png" width="200"/> |
 
 ---
 
